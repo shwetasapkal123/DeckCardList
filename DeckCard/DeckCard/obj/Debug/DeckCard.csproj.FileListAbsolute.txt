@@ -1,0 +1,8 @@
+C:\Users\DeckCard\DeckCard\bin\Debug\DeckCard.exe.config
+C:\Users\DeckCard\DeckCard\bin\Debug\DeckCard.exe
+C:\Users\DeckCard\DeckCard\bin\Debug\DeckCard.pdb
+C:\Users\DeckCard\DeckCard\obj\Debug\DeckCard.csproj.AssemblyReference.cache
+C:\Users\DeckCard\DeckCard\obj\Debug\DeckCard.csproj.SuggestedBindingRedirects.cache
+C:\Users\DeckCard\DeckCard\obj\Debug\DeckCard.csproj.CoreCompileInputs.cache
+C:\Users\DeckCard\DeckCard\obj\Debug\DeckCard.exe
+C:\Users\DeckCard\DeckCard\obj\Debug\DeckCard.pdb
